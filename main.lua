@@ -105,6 +105,7 @@ return {
   "2D5C4414-AA5C-441F-A244-143FDEDD11CB", -- Nas hwid
   "808B44BC-7B9C-4B99-9BFB-60658ED1238F", -- me gm idk
   "f25d16de-847e-495a-9c12-b93eb276c6b3", --Mario pfp
+  "F795304D-1C77-4434-8125-95C3288F1A96",
   "skibidi" -- kys - keep yourself safe
 }
 -- what are you doing here lil bro
