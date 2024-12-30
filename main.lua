@@ -119,8 +119,9 @@ return {
   "5a097fb8-8f78-46d1-9467-e1a269de1815",
   "08dbe0a5-818e-4c2a-89e1-dbbd7c751d6d",
   "9c106185-b597-4e16-8607-d8e28ce6e934",
-  "skibidi" -- keep yourself safe
+  "8626b9f7-8c77-4755-a10e-e64db3ac73ba",
+  "skibidi" -- my hwid
 }
--- what are you doing here lil bro
+-- what are you doing here bro
 
 -- [((OBFUSCATED WITH SKIBIDI OBFUSCATOR))]v39=skibidi,v69=sussy aah, sksjdndioebshs(()))end..,,.
