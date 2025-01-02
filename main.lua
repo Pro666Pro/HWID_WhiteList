@@ -129,6 +129,7 @@ return {
   "15395a27-6ad6-4a09-81ce-bdc628a708e6",
   "A3EBBDB8-8D0C-479F-BD7E-5876AF37D8F7",
   "e0f7b323-0c7c-4171-8dc2-ab363b5bf5ac",
+  "45d5b2c2-2cb2-4e4f-977c-db734a446c3f",
   "skibidi" -- my hwid
 }
 -- what are you doing here bro
