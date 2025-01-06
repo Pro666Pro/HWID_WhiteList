@@ -136,6 +136,7 @@ return {
   "CA755DAC-1C52-4C4D-9A0A-2DC50F3D0A86",
   "7fc946a3-8deb-4f0f-b27a-984d287a0480",
   "02008d7e-eb77-450d-b504-be321ac32694",
+  "1845493c-b414-4551-9683-d7a7ba166825",
   "skibidi" -- my hwid
 }
 -- what are you doing here bro
