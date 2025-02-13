@@ -164,6 +164,8 @@ return {
   "2573c7d4-ca72-4ecf-89aa-4aa6433ca653",
   "bee1da77-e4fe-47b4-8e2c-27e7944b8e21",
   "586f2487-880e-46fa-820e-f851a6270db5",
+  "785E0F74-F1CF-493C-B988-89A108520580",
+  "c51aa8c7-907f-478a-94e4-b781ccbfaa58",
   "skibidi" -- my hwid
 }
 -- what are you doing here bro
