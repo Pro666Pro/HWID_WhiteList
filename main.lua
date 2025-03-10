@@ -67,6 +67,7 @@ return {
   "77d323be-8923-4be0-b719-9a9c87e3c763",
   "77d323be-8923-4be0-b719-9a9c87e3c763",
   "d0317523-80a6-4a5a-aeb8-ee6838af3485",
+  "ce299096-6cdc-4bde-9e3e-e4b249a8d5cf",
   "skibidi" -- my hwid
 }
 -- what are you doing here bro
